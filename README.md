@@ -3,7 +3,7 @@
 
 ## What I learned and did on this project
 
-✅ Learn how to build great REST API’s for Order-Manangment App using Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate), MySQL database
+✅ Learn how to build great REST API’s for Order-Manangment App using Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate),   MySQL database
 
 ✅ Learn how to build CRUD REST API's
 
@@ -20,6 +20,10 @@
 ✅ Learn how to use Spring security in Spring boot project
 
 ✅ Learn how to write query methods using Spring Data JPA
+
+✅ Learn How to Use Spring Data JPA in the Spring Boot Application
+
+✅ Learn How to Use JPA Annotations to Create an Entity and Map to a Database Table
 
 ✅ Learn how to test REST API’s using Postman REST Client
 
@@ -76,6 +80,7 @@ This Project Aims to Design and Implements Order managment Backend APIs
 - Postman
 - Intellij
 - Swagger
+- MySql WorkBench
 
 
 --------------------------------------------------------
