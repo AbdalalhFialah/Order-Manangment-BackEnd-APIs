@@ -96,6 +96,8 @@ If you have any feedback, please reach out to us at fialahabdallah@gmail.com
 
 
 
+--------------------------------------------------------------------
+> Star the repository ⭐ if it was useful ✔
 
 
 
