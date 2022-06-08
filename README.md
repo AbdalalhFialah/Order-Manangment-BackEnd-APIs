@@ -124,6 +124,8 @@ For role-based authorization with credentials and authorities stored in database
 ```bash
  docker build -t abdallah146267/order-managment:latest .
 ```
+
+<!--
 #### Run docker image if you have a ready to be used DB
 ```bash
 docker run --name abdallah146267/order-managment:latest -p 127.0.0.1:8080:8080 abdallah146267/order-managment:latest
@@ -131,6 +133,7 @@ OR using docker-compose to start the app and MySQL DB together
 docker-compose down  # if the service already up
 docker-compose up
 ```
+-->
 ## 📥Feedback
 
 If you have any feedback, please reach out to us at fialahabdallah@gmail.com
