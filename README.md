@@ -46,6 +46,11 @@ This Project Aims to Design and Implements Order managment Backend APIs
 ![image](https://user-images.githubusercontent.com/93238952/172488081-9a05dbed-42ca-429f-b037-e1f6bf2de593.png)
 
 
+### 🟢Spring Boot Security Role-based Authorization:
+use Spring Security to authorize users based on their roles for a Spring Boot application. The credentials and roles are stored dynamically in MySQL database.
+Spring framework makes it easy and convenient to implement authorization with minimal effort.
+For role-based authorization with credentials and authorities stored in database, we have to create the following 3 tables:
+![image](https://user-images.githubusercontent.com/93238952/172558349-eded56b0-be8e-4201-b3d3-eb4626239a7c.png)
 
 --------------------------------------------------------
 ### 📝Docuemntion REST API's Design for Resource 
@@ -72,17 +77,26 @@ This Project Aims to Design and Implements Order managment Backend APIs
 
 --------------------------------------------------------
 
-### Technologies 💻
+### 💻 Technologies 
 - Java
 - Spring boot
 - Spring Data JPA
 - Spring security
+- Hibernate
+- Lombok
+- Maven
+
+### 🧪APIs Testing
 - Postman
-- Intellij
+
+### 📃API Documentation
 - Swagger
-- MySql WorkBench
 
+### 👩‍💻IDE:
+- Intellij IDEA
 
+### 📚Database:
+- MySQL database
 --------------------------------------------------------
 
 ## 📥Feedback
