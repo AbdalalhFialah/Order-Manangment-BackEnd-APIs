@@ -99,6 +99,13 @@ For role-based authorization with credentials and authorities stored in database
 - MySQL database
 --------------------------------------------------------
 
+
+#### Clone Repository
+```bash
+  git clone https://github.com/AbdalalhFialah/Order-Manangment-BackEnd-APIs.git
+```
+
+
 ## 📥Feedback
 
 If you have any feedback, please reach out to us at fialahabdallah@gmail.com
