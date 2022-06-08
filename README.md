@@ -1,6 +1,13 @@
 # Order-Manangment-BackEnd-APIs
 > Star the repository ⭐ if it was useful ✔
 
+------------------------------------------------------------------
+<h3 align="left">💻Languages and Tools:</h3>
+<p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+
+------------------------------------------------------------------
+
 ## What I learned and did on this project
 
 ✅ Learn how to build great REST API’s for Order-Manangment App using Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate),   MySQL database
@@ -105,7 +112,24 @@ For role-based authorization with credentials and authorities stored in database
   git clone https://github.com/AbdalalhFialah/Order-Manangment-BackEnd-APIs.git
 ```
 
+### Clone Repository From Docker 
 
+```bash
+  docker pull abdallah146267/order-managment:tagname
+```
+## Build and run Docker image 
+
+#### Build Image
+```bash
+ docker build -t abdallah146267/order-managment:latest .
+```
+#### Run docker image if you have a ready to be used DB
+```bash
+docker run --name abdallah146267/order-managment:latest -p 127.0.0.1:8080:8080 abdallah146267/order-managment:latest
+OR using docker-compose to start the app and MySQL DB together
+docker-compose down  # if the service already up
+docker-compose up
+```
 ## 📥Feedback
 
 If you have any feedback, please reach out to us at fialahabdallah@gmail.com
